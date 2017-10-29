@@ -1,4 +1,4 @@
-# Message Buffer
+# Prometheus Alert Buffer
 
 This simple server accepts incoming JSON objects over HTTP, stores them in a
 database, and makes them queryable by index via HTTP.
@@ -9,7 +9,7 @@ database, and makes them queryable by index via HTTP.
 
 ## Run
 
-    ./message-buffer
+    ./prometheus-alert-buffer
 
 ## Send JSON objects
 
